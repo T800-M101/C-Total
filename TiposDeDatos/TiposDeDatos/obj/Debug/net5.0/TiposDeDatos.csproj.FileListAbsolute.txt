@@ -1,0 +1,16 @@
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\bin\Debug\net5.0\TiposDeDatos.exe
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\bin\Debug\net5.0\TiposDeDatos.deps.json
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\bin\Debug\net5.0\TiposDeDatos.runtimeconfig.json
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\bin\Debug\net5.0\TiposDeDatos.runtimeconfig.dev.json
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\bin\Debug\net5.0\TiposDeDatos.dll
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\bin\Debug\net5.0\ref\TiposDeDatos.dll
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\bin\Debug\net5.0\TiposDeDatos.pdb
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\obj\Debug\net5.0\TiposDeDatos.csproj.AssemblyReference.cache
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\obj\Debug\net5.0\TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\obj\Debug\net5.0\TiposDeDatos.AssemblyInfoInputs.cache
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\obj\Debug\net5.0\TiposDeDatos.AssemblyInfo.cs
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\obj\Debug\net5.0\TiposDeDatos.csproj.CoreCompileInputs.cache
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\obj\Debug\net5.0\TiposDeDatos.dll
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\obj\Debug\net5.0\ref\TiposDeDatos.dll
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\obj\Debug\net5.0\TiposDeDatos.pdb
+D:\CURSO C#\TiposDeDatos\TiposDeDatos\obj\Debug\net5.0\TiposDeDatos.genruntimeconfig.cache
