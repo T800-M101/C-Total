@@ -1,0 +1,16 @@
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\bin\Debug\net5.0\TomaDeDecisiones.exe
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\bin\Debug\net5.0\TomaDeDecisiones.deps.json
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\bin\Debug\net5.0\TomaDeDecisiones.runtimeconfig.json
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\bin\Debug\net5.0\TomaDeDecisiones.runtimeconfig.dev.json
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\bin\Debug\net5.0\TomaDeDecisiones.dll
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\bin\Debug\net5.0\ref\TomaDeDecisiones.dll
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\bin\Debug\net5.0\TomaDeDecisiones.pdb
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\obj\Debug\net5.0\TomaDeDecisiones.csproj.AssemblyReference.cache
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\obj\Debug\net5.0\TomaDeDecisiones.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\obj\Debug\net5.0\TomaDeDecisiones.AssemblyInfoInputs.cache
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\obj\Debug\net5.0\TomaDeDecisiones.AssemblyInfo.cs
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\obj\Debug\net5.0\TomaDeDecisiones.csproj.CoreCompileInputs.cache
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\obj\Debug\net5.0\TomaDeDecisiones.dll
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\obj\Debug\net5.0\ref\TomaDeDecisiones.dll
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\obj\Debug\net5.0\TomaDeDecisiones.pdb
+D:\CURSO C#\TomaDeDecisiones\TomaDeDecisiones\obj\Debug\net5.0\TomaDeDecisiones.genruntimeconfig.cache
