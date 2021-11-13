@@ -1,0 +1,42 @@
+﻿1234567890
+
+202-555-0102
+202-555-0196
+202.555.0196
+202#55530196
+0175/12345678 (Regex \+49|0049|0?1(6|7)\d/\d{8} )
++49165/12312347 (Regex \+49|0049|0?1(6|7)\d/\d{8} )
+0049165/12312347 (Regex \+49|0049|0?1(6|7)\d/\d{8} )
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+LaLa La La LaLa
+
+Sr. Lopez (Regex Sr\.?\s\w+)
+Sr Valles
+Sr Parker
+Sr. P
+Sra Rios
+Sra Garay
+^
+//Desafío - encuentra enlaces a sitios webs
+https://www.escueladirecta.com (Regex https?://(www.)?(\w+)(\.\w+))
+https://escueladirecta.com
+http://www.escueladirecta.com
+http://escueladirecta.com
+
+General Email Regex (RFC 5322 Official Standard)
+
+(?:[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*|"(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*")@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])
+
+
+C#
+^(?(")(".+?(?<!\\)"@)|(([0-9a-z]((\.(?!\.))|[-!#\$%&'\*\+/=\?\^`\{\}\|~\w])*)(?<=[0-9a-z])@))(?(\[)(\[(\d{1,3}\.){3}\d{1,3}\])|(([0-9a-z][-\w]*[0-9a-z]*\.)+[a-z0-9][\-a-z0-9]{0,22}[a-z0-9]))
+prueba@prueba.com
+
+Another way is to use the System.Net.Mail.MailAddress class. To determine whether an email address is valid, pass the email address to the MailAddress.MailAddress(String) class constructor.
+
+
+MetaCaracteres (necesitan escape)
+.[{()\^$|?*+

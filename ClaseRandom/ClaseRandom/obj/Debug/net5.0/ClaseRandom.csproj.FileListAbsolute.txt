@@ -1,0 +1,15 @@
+D:\CURSO C#\ClaseRandom\ClaseRandom\bin\Debug\net5.0\ClaseRandom.exe
+D:\CURSO C#\ClaseRandom\ClaseRandom\bin\Debug\net5.0\ClaseRandom.deps.json
+D:\CURSO C#\ClaseRandom\ClaseRandom\bin\Debug\net5.0\ClaseRandom.runtimeconfig.json
+D:\CURSO C#\ClaseRandom\ClaseRandom\bin\Debug\net5.0\ClaseRandom.runtimeconfig.dev.json
+D:\CURSO C#\ClaseRandom\ClaseRandom\bin\Debug\net5.0\ClaseRandom.dll
+D:\CURSO C#\ClaseRandom\ClaseRandom\bin\Debug\net5.0\ref\ClaseRandom.dll
+D:\CURSO C#\ClaseRandom\ClaseRandom\bin\Debug\net5.0\ClaseRandom.pdb
+D:\CURSO C#\ClaseRandom\ClaseRandom\obj\Debug\net5.0\ClaseRandom.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\ClaseRandom\ClaseRandom\obj\Debug\net5.0\ClaseRandom.AssemblyInfoInputs.cache
+D:\CURSO C#\ClaseRandom\ClaseRandom\obj\Debug\net5.0\ClaseRandom.AssemblyInfo.cs
+D:\CURSO C#\ClaseRandom\ClaseRandom\obj\Debug\net5.0\ClaseRandom.csproj.CoreCompileInputs.cache
+D:\CURSO C#\ClaseRandom\ClaseRandom\obj\Debug\net5.0\ClaseRandom.dll
+D:\CURSO C#\ClaseRandom\ClaseRandom\obj\Debug\net5.0\ref\ClaseRandom.dll
+D:\CURSO C#\ClaseRandom\ClaseRandom\obj\Debug\net5.0\ClaseRandom.pdb
+D:\CURSO C#\ClaseRandom\ClaseRandom\obj\Debug\net5.0\ClaseRandom.genruntimeconfig.cache

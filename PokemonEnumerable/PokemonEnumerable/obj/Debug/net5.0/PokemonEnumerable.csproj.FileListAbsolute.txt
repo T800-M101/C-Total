@@ -1,0 +1,15 @@
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\bin\Debug\net5.0\PokemonEnumerable.exe
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\bin\Debug\net5.0\PokemonEnumerable.deps.json
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\bin\Debug\net5.0\PokemonEnumerable.runtimeconfig.json
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\bin\Debug\net5.0\PokemonEnumerable.runtimeconfig.dev.json
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\bin\Debug\net5.0\PokemonEnumerable.dll
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\bin\Debug\net5.0\ref\PokemonEnumerable.dll
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\bin\Debug\net5.0\PokemonEnumerable.pdb
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\obj\Debug\net5.0\PokemonEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\obj\Debug\net5.0\PokemonEnumerable.AssemblyInfoInputs.cache
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\obj\Debug\net5.0\PokemonEnumerable.AssemblyInfo.cs
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\obj\Debug\net5.0\PokemonEnumerable.csproj.CoreCompileInputs.cache
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\obj\Debug\net5.0\PokemonEnumerable.dll
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\obj\Debug\net5.0\ref\PokemonEnumerable.dll
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\obj\Debug\net5.0\PokemonEnumerable.pdb
+D:\CURSO C#\PokemonEnumerable\PokemonEnumerable\obj\Debug\net5.0\PokemonEnumerable.genruntimeconfig.cache

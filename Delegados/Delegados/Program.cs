@@ -7,6 +7,7 @@ namespace Delegados
     {
         // Se declara el delegado
         public delegate int BuscaNumeroMayor(List<int> lst);
+       
 
         // Se declara un método al cual se le delegara
         static int NumeroMayor(List<int> lst)
@@ -26,6 +27,7 @@ namespace Delegados
             // FORMA 1 instanciando el delegado
             BuscaNumeroMayor miDelegado = new BuscaNumeroMayor(NumeroMayor);
             Console.WriteLine(miDelegado(lst));
+           
 
 
             // FORMA 2 de manera directa
@@ -43,7 +45,7 @@ namespace Delegados
 
 
             // FORMA 4 con expresión lambda
-            BuscaNumeroMayor miDelegado4 = x => x.Max();
+            BuscaNumeroMayor miDelegado4 = list => list.Max();
 
             // Se llama al delegado
             Console.WriteLine(miDelegado4(lst4));
@@ -71,3 +73,7 @@ namespace Delegados
     }
     
 }
+
+
+
+

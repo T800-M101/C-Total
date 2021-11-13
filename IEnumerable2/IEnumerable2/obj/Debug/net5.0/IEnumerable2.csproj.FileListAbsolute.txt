@@ -1,0 +1,16 @@
+D:\CURSO C#\IEnumerable2\IEnumerable2\bin\Debug\net5.0\IEnumerable2.exe
+D:\CURSO C#\IEnumerable2\IEnumerable2\bin\Debug\net5.0\IEnumerable2.deps.json
+D:\CURSO C#\IEnumerable2\IEnumerable2\bin\Debug\net5.0\IEnumerable2.runtimeconfig.json
+D:\CURSO C#\IEnumerable2\IEnumerable2\bin\Debug\net5.0\IEnumerable2.runtimeconfig.dev.json
+D:\CURSO C#\IEnumerable2\IEnumerable2\bin\Debug\net5.0\IEnumerable2.dll
+D:\CURSO C#\IEnumerable2\IEnumerable2\bin\Debug\net5.0\ref\IEnumerable2.dll
+D:\CURSO C#\IEnumerable2\IEnumerable2\bin\Debug\net5.0\IEnumerable2.pdb
+D:\CURSO C#\IEnumerable2\IEnumerable2\obj\Debug\net5.0\IEnumerable2.csproj.AssemblyReference.cache
+D:\CURSO C#\IEnumerable2\IEnumerable2\obj\Debug\net5.0\IEnumerable2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\IEnumerable2\IEnumerable2\obj\Debug\net5.0\IEnumerable2.AssemblyInfoInputs.cache
+D:\CURSO C#\IEnumerable2\IEnumerable2\obj\Debug\net5.0\IEnumerable2.AssemblyInfo.cs
+D:\CURSO C#\IEnumerable2\IEnumerable2\obj\Debug\net5.0\IEnumerable2.csproj.CoreCompileInputs.cache
+D:\CURSO C#\IEnumerable2\IEnumerable2\obj\Debug\net5.0\IEnumerable2.dll
+D:\CURSO C#\IEnumerable2\IEnumerable2\obj\Debug\net5.0\ref\IEnumerable2.dll
+D:\CURSO C#\IEnumerable2\IEnumerable2\obj\Debug\net5.0\IEnumerable2.pdb
+D:\CURSO C#\IEnumerable2\IEnumerable2\obj\Debug\net5.0\IEnumerable2.genruntimeconfig.cache

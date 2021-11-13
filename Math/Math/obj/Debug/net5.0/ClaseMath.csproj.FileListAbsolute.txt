@@ -1,0 +1,15 @@
+D:\CURSO C#\Math\Math\bin\Debug\net5.0\ClaseMath.exe
+D:\CURSO C#\Math\Math\bin\Debug\net5.0\ClaseMath.deps.json
+D:\CURSO C#\Math\Math\bin\Debug\net5.0\ClaseMath.runtimeconfig.json
+D:\CURSO C#\Math\Math\bin\Debug\net5.0\ClaseMath.runtimeconfig.dev.json
+D:\CURSO C#\Math\Math\bin\Debug\net5.0\ClaseMath.dll
+D:\CURSO C#\Math\Math\bin\Debug\net5.0\ref\ClaseMath.dll
+D:\CURSO C#\Math\Math\bin\Debug\net5.0\ClaseMath.pdb
+D:\CURSO C#\Math\Math\obj\Debug\net5.0\ClaseMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\Math\Math\obj\Debug\net5.0\ClaseMath.AssemblyInfoInputs.cache
+D:\CURSO C#\Math\Math\obj\Debug\net5.0\ClaseMath.AssemblyInfo.cs
+D:\CURSO C#\Math\Math\obj\Debug\net5.0\ClaseMath.csproj.CoreCompileInputs.cache
+D:\CURSO C#\Math\Math\obj\Debug\net5.0\ClaseMath.dll
+D:\CURSO C#\Math\Math\obj\Debug\net5.0\ref\ClaseMath.dll
+D:\CURSO C#\Math\Math\obj\Debug\net5.0\ClaseMath.pdb
+D:\CURSO C#\Math\Math\obj\Debug\net5.0\ClaseMath.genruntimeconfig.cache

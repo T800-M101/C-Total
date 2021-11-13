@@ -104,9 +104,9 @@ namespace TomaDeDecisiones
 
             //juego.Intentalo(puntos,jugador);
 
-            Ternario evaluaTemperatura = new Ternario();
-            string mensaje = evaluaTemperatura.VerificarTemperatura();
-            Console.WriteLine(mensaje);
+            //Ternario evaluaTemperatura = new Ternario();
+            //string mensaje = evaluaTemperatura.VerificarTemperatura();
+            //Console.WriteLine(mensaje);
         }
     }
 }

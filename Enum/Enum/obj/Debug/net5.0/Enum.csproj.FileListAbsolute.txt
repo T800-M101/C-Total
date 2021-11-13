@@ -1,0 +1,16 @@
+D:\CURSO C#\Enum\Enum\bin\Debug\net5.0\Enum.exe
+D:\CURSO C#\Enum\Enum\bin\Debug\net5.0\Enum.deps.json
+D:\CURSO C#\Enum\Enum\bin\Debug\net5.0\Enum.runtimeconfig.json
+D:\CURSO C#\Enum\Enum\bin\Debug\net5.0\Enum.runtimeconfig.dev.json
+D:\CURSO C#\Enum\Enum\bin\Debug\net5.0\Enum.dll
+D:\CURSO C#\Enum\Enum\bin\Debug\net5.0\ref\Enum.dll
+D:\CURSO C#\Enum\Enum\bin\Debug\net5.0\Enum.pdb
+D:\CURSO C#\Enum\Enum\obj\Debug\net5.0\Enum.csproj.AssemblyReference.cache
+D:\CURSO C#\Enum\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\Enum\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+D:\CURSO C#\Enum\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+D:\CURSO C#\Enum\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+D:\CURSO C#\Enum\Enum\obj\Debug\net5.0\Enum.dll
+D:\CURSO C#\Enum\Enum\obj\Debug\net5.0\ref\Enum.dll
+D:\CURSO C#\Enum\Enum\obj\Debug\net5.0\Enum.pdb
+D:\CURSO C#\Enum\Enum\obj\Debug\net5.0\Enum.genruntimeconfig.cache

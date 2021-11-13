@@ -1,0 +1,16 @@
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net5.0\ExpresionesRegulares.exe
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net5.0\ExpresionesRegulares.deps.json
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net5.0\ExpresionesRegulares.runtimeconfig.json
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net5.0\ExpresionesRegulares.runtimeconfig.dev.json
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net5.0\ExpresionesRegulares.dll
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net5.0\ref\ExpresionesRegulares.dll
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\net5.0\ExpresionesRegulares.pdb
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net5.0\ExpresionesRegulares.csproj.AssemblyReference.cache
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net5.0\ExpresionesRegulares.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net5.0\ExpresionesRegulares.AssemblyInfoInputs.cache
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net5.0\ExpresionesRegulares.AssemblyInfo.cs
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net5.0\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net5.0\ExpresionesRegulares.dll
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net5.0\ref\ExpresionesRegulares.dll
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net5.0\ExpresionesRegulares.pdb
+D:\CURSO C#\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\net5.0\ExpresionesRegulares.genruntimeconfig.cache
