@@ -1,0 +1,16 @@
+D:\CURSO C#\FechaHora\FechaHora\bin\Debug\net5.0\FechaHora.exe
+D:\CURSO C#\FechaHora\FechaHora\bin\Debug\net5.0\FechaHora.deps.json
+D:\CURSO C#\FechaHora\FechaHora\bin\Debug\net5.0\FechaHora.runtimeconfig.json
+D:\CURSO C#\FechaHora\FechaHora\bin\Debug\net5.0\FechaHora.runtimeconfig.dev.json
+D:\CURSO C#\FechaHora\FechaHora\bin\Debug\net5.0\FechaHora.dll
+D:\CURSO C#\FechaHora\FechaHora\bin\Debug\net5.0\ref\FechaHora.dll
+D:\CURSO C#\FechaHora\FechaHora\bin\Debug\net5.0\FechaHora.pdb
+D:\CURSO C#\FechaHora\FechaHora\obj\Debug\net5.0\FechaHora.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\FechaHora\FechaHora\obj\Debug\net5.0\FechaHora.AssemblyInfoInputs.cache
+D:\CURSO C#\FechaHora\FechaHora\obj\Debug\net5.0\FechaHora.AssemblyInfo.cs
+D:\CURSO C#\FechaHora\FechaHora\obj\Debug\net5.0\FechaHora.csproj.CoreCompileInputs.cache
+D:\CURSO C#\FechaHora\FechaHora\obj\Debug\net5.0\FechaHora.dll
+D:\CURSO C#\FechaHora\FechaHora\obj\Debug\net5.0\ref\FechaHora.dll
+D:\CURSO C#\FechaHora\FechaHora\obj\Debug\net5.0\FechaHora.pdb
+D:\CURSO C#\FechaHora\FechaHora\obj\Debug\net5.0\FechaHora.genruntimeconfig.cache
+D:\CURSO C#\FechaHora\FechaHora\obj\Debug\net5.0\FechaHora.csproj.AssemblyReference.cache
