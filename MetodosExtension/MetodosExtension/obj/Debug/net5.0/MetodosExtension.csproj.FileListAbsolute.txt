@@ -1,0 +1,16 @@
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\bin\Debug\net5.0\MetodosExtension.exe
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\bin\Debug\net5.0\MetodosExtension.deps.json
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\bin\Debug\net5.0\MetodosExtension.runtimeconfig.json
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\bin\Debug\net5.0\MetodosExtension.runtimeconfig.dev.json
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\bin\Debug\net5.0\MetodosExtension.dll
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\bin\Debug\net5.0\ref\MetodosExtension.dll
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\bin\Debug\net5.0\MetodosExtension.pdb
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\obj\Debug\net5.0\MetodosExtension.csproj.AssemblyReference.cache
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\obj\Debug\net5.0\MetodosExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\obj\Debug\net5.0\MetodosExtension.AssemblyInfoInputs.cache
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\obj\Debug\net5.0\MetodosExtension.AssemblyInfo.cs
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\obj\Debug\net5.0\MetodosExtension.csproj.CoreCompileInputs.cache
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\obj\Debug\net5.0\MetodosExtension.dll
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\obj\Debug\net5.0\ref\MetodosExtension.dll
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\obj\Debug\net5.0\MetodosExtension.pdb
+C:\Users\guillermo.moran\source\repos\MetodosExtension\MetodosExtension\obj\Debug\net5.0\MetodosExtension.genruntimeconfig.cache
