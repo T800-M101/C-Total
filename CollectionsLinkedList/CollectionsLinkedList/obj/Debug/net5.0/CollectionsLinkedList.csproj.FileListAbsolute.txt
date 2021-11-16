@@ -1,0 +1,16 @@
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\bin\Debug\net5.0\CollectionsLinkedList.exe
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\bin\Debug\net5.0\CollectionsLinkedList.deps.json
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\bin\Debug\net5.0\CollectionsLinkedList.runtimeconfig.json
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\bin\Debug\net5.0\CollectionsLinkedList.runtimeconfig.dev.json
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\bin\Debug\net5.0\CollectionsLinkedList.dll
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\bin\Debug\net5.0\ref\CollectionsLinkedList.dll
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\bin\Debug\net5.0\CollectionsLinkedList.pdb
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net5.0\CollectionsLinkedList.csproj.AssemblyReference.cache
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net5.0\CollectionsLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net5.0\CollectionsLinkedList.AssemblyInfoInputs.cache
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net5.0\CollectionsLinkedList.AssemblyInfo.cs
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net5.0\CollectionsLinkedList.csproj.CoreCompileInputs.cache
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net5.0\CollectionsLinkedList.dll
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net5.0\ref\CollectionsLinkedList.dll
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net5.0\CollectionsLinkedList.pdb
+D:\CURSO C#\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net5.0\CollectionsLinkedList.genruntimeconfig.cache
