@@ -1,0 +1,16 @@
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\bin\Debug\net5.0\EventosYDelegados.exe
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\bin\Debug\net5.0\EventosYDelegados.deps.json
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\bin\Debug\net5.0\EventosYDelegados.runtimeconfig.json
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\bin\Debug\net5.0\EventosYDelegados.runtimeconfig.dev.json
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\bin\Debug\net5.0\EventosYDelegados.dll
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\bin\Debug\net5.0\ref\EventosYDelegados.dll
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\bin\Debug\net5.0\EventosYDelegados.pdb
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\net5.0\EventosYDelegados.csproj.AssemblyReference.cache
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\net5.0\EventosYDelegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\net5.0\EventosYDelegados.AssemblyInfoInputs.cache
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\net5.0\EventosYDelegados.AssemblyInfo.cs
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\net5.0\EventosYDelegados.csproj.CoreCompileInputs.cache
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\net5.0\EventosYDelegados.dll
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\net5.0\ref\EventosYDelegados.dll
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\net5.0\EventosYDelegados.pdb
+C:\Users\guillermo.moran\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\net5.0\EventosYDelegados.genruntimeconfig.cache

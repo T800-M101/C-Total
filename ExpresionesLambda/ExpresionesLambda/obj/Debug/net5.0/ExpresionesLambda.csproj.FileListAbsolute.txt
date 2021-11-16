@@ -1,0 +1,15 @@
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\net5.0\ExpresionesLambda.exe
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\net5.0\ExpresionesLambda.deps.json
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\net5.0\ExpresionesLambda.runtimeconfig.json
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\net5.0\ExpresionesLambda.runtimeconfig.dev.json
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\net5.0\ExpresionesLambda.dll
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\net5.0\ref\ExpresionesLambda.dll
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\net5.0\ExpresionesLambda.pdb
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net5.0\ExpresionesLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net5.0\ExpresionesLambda.AssemblyInfoInputs.cache
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net5.0\ExpresionesLambda.AssemblyInfo.cs
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net5.0\ExpresionesLambda.csproj.CoreCompileInputs.cache
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net5.0\ExpresionesLambda.dll
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net5.0\ref\ExpresionesLambda.dll
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net5.0\ExpresionesLambda.pdb
+C:\Users\guillermo.moran\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net5.0\ExpresionesLambda.genruntimeconfig.cache

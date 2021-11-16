@@ -1,0 +1,16 @@
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\net5.0\MetodosAnonimos.exe
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\net5.0\MetodosAnonimos.deps.json
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\net5.0\MetodosAnonimos.runtimeconfig.json
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\net5.0\MetodosAnonimos.runtimeconfig.dev.json
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\net5.0\MetodosAnonimos.dll
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\net5.0\ref\MetodosAnonimos.dll
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\net5.0\MetodosAnonimos.pdb
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\net5.0\MetodosAnonimos.csproj.AssemblyReference.cache
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\net5.0\MetodosAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\net5.0\MetodosAnonimos.AssemblyInfoInputs.cache
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\net5.0\MetodosAnonimos.AssemblyInfo.cs
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\net5.0\MetodosAnonimos.csproj.CoreCompileInputs.cache
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\net5.0\MetodosAnonimos.dll
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\net5.0\ref\MetodosAnonimos.dll
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\net5.0\MetodosAnonimos.pdb
+D:\CURSO C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\net5.0\MetodosAnonimos.genruntimeconfig.cache
