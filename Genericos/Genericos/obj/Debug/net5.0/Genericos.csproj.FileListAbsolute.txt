@@ -1,0 +1,15 @@
+D:\CURSO C#\Genericos\Genericos\bin\Debug\net5.0\Genericos.exe
+D:\CURSO C#\Genericos\Genericos\bin\Debug\net5.0\Genericos.deps.json
+D:\CURSO C#\Genericos\Genericos\bin\Debug\net5.0\Genericos.runtimeconfig.json
+D:\CURSO C#\Genericos\Genericos\bin\Debug\net5.0\Genericos.runtimeconfig.dev.json
+D:\CURSO C#\Genericos\Genericos\bin\Debug\net5.0\Genericos.dll
+D:\CURSO C#\Genericos\Genericos\bin\Debug\net5.0\ref\Genericos.dll
+D:\CURSO C#\Genericos\Genericos\bin\Debug\net5.0\Genericos.pdb
+D:\CURSO C#\Genericos\Genericos\obj\Debug\net5.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\Genericos\Genericos\obj\Debug\net5.0\Genericos.AssemblyInfoInputs.cache
+D:\CURSO C#\Genericos\Genericos\obj\Debug\net5.0\Genericos.AssemblyInfo.cs
+D:\CURSO C#\Genericos\Genericos\obj\Debug\net5.0\Genericos.csproj.CoreCompileInputs.cache
+D:\CURSO C#\Genericos\Genericos\obj\Debug\net5.0\Genericos.dll
+D:\CURSO C#\Genericos\Genericos\obj\Debug\net5.0\ref\Genericos.dll
+D:\CURSO C#\Genericos\Genericos\obj\Debug\net5.0\Genericos.pdb
+D:\CURSO C#\Genericos\Genericos\obj\Debug\net5.0\Genericos.genruntimeconfig.cache

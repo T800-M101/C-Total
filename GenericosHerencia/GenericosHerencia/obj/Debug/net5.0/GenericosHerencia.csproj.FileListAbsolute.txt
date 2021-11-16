@@ -1,0 +1,16 @@
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\bin\Debug\net5.0\GenericosHerencia.exe
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\bin\Debug\net5.0\GenericosHerencia.deps.json
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\bin\Debug\net5.0\GenericosHerencia.runtimeconfig.json
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\bin\Debug\net5.0\GenericosHerencia.runtimeconfig.dev.json
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\bin\Debug\net5.0\GenericosHerencia.dll
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\bin\Debug\net5.0\ref\GenericosHerencia.dll
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\bin\Debug\net5.0\GenericosHerencia.pdb
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\obj\Debug\net5.0\GenericosHerencia.csproj.AssemblyReference.cache
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\obj\Debug\net5.0\GenericosHerencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\obj\Debug\net5.0\GenericosHerencia.AssemblyInfoInputs.cache
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\obj\Debug\net5.0\GenericosHerencia.AssemblyInfo.cs
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\obj\Debug\net5.0\GenericosHerencia.csproj.CoreCompileInputs.cache
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\obj\Debug\net5.0\GenericosHerencia.dll
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\obj\Debug\net5.0\ref\GenericosHerencia.dll
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\obj\Debug\net5.0\GenericosHerencia.pdb
+D:\CURSO C#\GenericosHerencia\GenericosHerencia\obj\Debug\net5.0\GenericosHerencia.genruntimeconfig.cache
