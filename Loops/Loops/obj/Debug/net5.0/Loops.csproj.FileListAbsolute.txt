@@ -1,0 +1,16 @@
+D:\CURSO C#\Loops\Loops\bin\Debug\net5.0\Loops.exe
+D:\CURSO C#\Loops\Loops\bin\Debug\net5.0\Loops.deps.json
+D:\CURSO C#\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+D:\CURSO C#\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+D:\CURSO C#\Loops\Loops\bin\Debug\net5.0\Loops.dll
+D:\CURSO C#\Loops\Loops\bin\Debug\net5.0\ref\Loops.dll
+D:\CURSO C#\Loops\Loops\bin\Debug\net5.0\Loops.pdb
+D:\CURSO C#\Loops\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
+D:\CURSO C#\Loops\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+D:\CURSO C#\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+D:\CURSO C#\Loops\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+D:\CURSO C#\Loops\Loops\obj\Debug\net5.0\Loops.dll
+D:\CURSO C#\Loops\Loops\obj\Debug\net5.0\ref\Loops.dll
+D:\CURSO C#\Loops\Loops\obj\Debug\net5.0\Loops.pdb
+D:\CURSO C#\Loops\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache

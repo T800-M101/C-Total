@@ -1,0 +1,16 @@
+D:\CURSO C#\Clases__Basico\Clases__Basico\bin\Debug\net5.0\Clases__Basico.exe
+D:\CURSO C#\Clases__Basico\Clases__Basico\bin\Debug\net5.0\Clases__Basico.deps.json
+D:\CURSO C#\Clases__Basico\Clases__Basico\bin\Debug\net5.0\Clases__Basico.runtimeconfig.json
+D:\CURSO C#\Clases__Basico\Clases__Basico\bin\Debug\net5.0\Clases__Basico.runtimeconfig.dev.json
+D:\CURSO C#\Clases__Basico\Clases__Basico\bin\Debug\net5.0\Clases__Basico.dll
+D:\CURSO C#\Clases__Basico\Clases__Basico\bin\Debug\net5.0\ref\Clases__Basico.dll
+D:\CURSO C#\Clases__Basico\Clases__Basico\bin\Debug\net5.0\Clases__Basico.pdb
+D:\CURSO C#\Clases__Basico\Clases__Basico\obj\Debug\net5.0\Clases__Basico.csproj.AssemblyReference.cache
+D:\CURSO C#\Clases__Basico\Clases__Basico\obj\Debug\net5.0\Clases__Basico.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\Clases__Basico\Clases__Basico\obj\Debug\net5.0\Clases__Basico.AssemblyInfoInputs.cache
+D:\CURSO C#\Clases__Basico\Clases__Basico\obj\Debug\net5.0\Clases__Basico.AssemblyInfo.cs
+D:\CURSO C#\Clases__Basico\Clases__Basico\obj\Debug\net5.0\Clases__Basico.csproj.CoreCompileInputs.cache
+D:\CURSO C#\Clases__Basico\Clases__Basico\obj\Debug\net5.0\Clases__Basico.dll
+D:\CURSO C#\Clases__Basico\Clases__Basico\obj\Debug\net5.0\ref\Clases__Basico.dll
+D:\CURSO C#\Clases__Basico\Clases__Basico\obj\Debug\net5.0\Clases__Basico.pdb
+D:\CURSO C#\Clases__Basico\Clases__Basico\obj\Debug\net5.0\Clases__Basico.genruntimeconfig.cache
