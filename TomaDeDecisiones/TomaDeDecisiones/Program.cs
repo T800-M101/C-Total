@@ -7,49 +7,50 @@ namespace TomaDeDecisiones
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Ingresa una temperatura");
+            Console.WriteLine("Ingresa una temperatura");
 
-            //string temperatura = Console.ReadLine();
+            string temperatura = Console.ReadLine();
 
-            //TryParse parsear = new TryParse();
+            TryParse parsear = new TryParse();
 
-            //List<Object> result = parsear.ParseString(temperatura);
+            List<Object> result = parsear.ParseString(temperatura);
 
-            //Type dato1 = result[0].GetType();
+            Type dato1 = result[0].GetType();
 
-            //Type dato2 = typeof(string);
+            Type dato2 = typeof(string);
 
-            //Type dato3 = typeof(double);
+            Type dato3 = typeof(double);
 
-            //double temp;
+            double temp;
 
-            //if(dato1 == dato2)
-            //{
-            //    Console.WriteLine(result[0]);
-            //}
+            if (dato1 == dato2)
+            {
+                Console.WriteLine(result[0]);
+                
+            }
 
-            //if(dato1 == dato3)
-            //{
-            //    temp = (double)result[0];
+            if (dato1 == dato3)
+            {
+                temp = (double)result[0];
 
-            //    if (temp < 20)
-            //    {
-            //        Console.WriteLine("Abrigate");
+                if (temp < 20)
+                {
+                    Console.WriteLine("Abrigate");
 
-            //    }
+                }
 
-            //    else if (temp == 20)
-            //    {
-            //        Console.WriteLine("Vistete cómodo");
+                else if (temp == 20)
+                {
+                    Console.WriteLine("Vistete cómodo");
 
-            //    }
+                }
 
-            //    else
-            //    {
-            //        Console.WriteLine("Usa ropa ligera");
+                else
+                {
+                    Console.WriteLine("Usa ropa ligera");
 
-            //    }
-            //}
+                }
+            }
 
 
             //WelcomeAdmin bienvenda = new WelcomeAdmin();

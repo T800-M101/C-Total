@@ -9,22 +9,22 @@ namespace TomaDeDecisiones
     class TryParse
     {
 
-        //public List<Object> ParseString(string numeroComoString)
-        //{
-        //    double valorParseado;
-        //    string mensaje = "No se puede parsear el dato";
+        public List<Object> ParseString(string numeroComoString)
+        {
+            double valorParseado;
+            string mensaje = "No se puede parsear el dato";
 
-        //    bool exito = double.TryParse(numeroComoString, out valorParseado);
+            bool exito = double.TryParse(numeroComoString, out valorParseado);
 
-        //    if (exito)
-        //    {
-        //    return new List<Object> { valorParseado};
+            if (exito)
+            {
+                return new List<Object> { valorParseado };
 
-        //    }
-        //    return new List<Object> { mensaje};
+            }
+            return new List<Object> { mensaje };
 
-        //}
+        }
 
-      
+
     }   
 }
