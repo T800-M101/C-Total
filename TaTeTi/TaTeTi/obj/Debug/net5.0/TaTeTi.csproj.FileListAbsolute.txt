@@ -1,0 +1,16 @@
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\bin\Debug\net5.0\TaTeTi.exe
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\bin\Debug\net5.0\TaTeTi.deps.json
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\bin\Debug\net5.0\TaTeTi.runtimeconfig.json
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\bin\Debug\net5.0\TaTeTi.runtimeconfig.dev.json
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\bin\Debug\net5.0\TaTeTi.dll
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\bin\Debug\net5.0\ref\TaTeTi.dll
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\bin\Debug\net5.0\TaTeTi.pdb
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\obj\Debug\net5.0\TaTeTi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\obj\Debug\net5.0\TaTeTi.AssemblyInfoInputs.cache
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\obj\Debug\net5.0\TaTeTi.AssemblyInfo.cs
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\obj\Debug\net5.0\TaTeTi.csproj.CoreCompileInputs.cache
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\obj\Debug\net5.0\TaTeTi.dll
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\obj\Debug\net5.0\ref\TaTeTi.dll
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\obj\Debug\net5.0\TaTeTi.pdb
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\obj\Debug\net5.0\TaTeTi.genruntimeconfig.cache
+C:\Users\guillermo.moran\source\repos\TaTeTi\TaTeTi\obj\Debug\net5.0\TaTeTi.csproj.AssemblyReference.cache

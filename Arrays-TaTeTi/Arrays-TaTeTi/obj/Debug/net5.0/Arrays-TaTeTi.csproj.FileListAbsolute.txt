@@ -1,0 +1,16 @@
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\bin\Debug\net5.0\Arrays-TaTeTi.exe
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\bin\Debug\net5.0\Arrays-TaTeTi.deps.json
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\bin\Debug\net5.0\Arrays-TaTeTi.runtimeconfig.json
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\bin\Debug\net5.0\Arrays-TaTeTi.runtimeconfig.dev.json
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\bin\Debug\net5.0\Arrays-TaTeTi.dll
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\bin\Debug\net5.0\ref\Arrays-TaTeTi.dll
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\bin\Debug\net5.0\Arrays-TaTeTi.pdb
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\obj\Debug\net5.0\Arrays-TaTeTi.csproj.AssemblyReference.cache
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\obj\Debug\net5.0\Arrays-TaTeTi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\obj\Debug\net5.0\Arrays-TaTeTi.AssemblyInfoInputs.cache
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\obj\Debug\net5.0\Arrays-TaTeTi.AssemblyInfo.cs
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\obj\Debug\net5.0\Arrays-TaTeTi.csproj.CoreCompileInputs.cache
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\obj\Debug\net5.0\Arrays-TaTeTi.dll
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\obj\Debug\net5.0\ref\Arrays-TaTeTi.dll
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\obj\Debug\net5.0\Arrays-TaTeTi.pdb
+C:\Users\guillermo.moran\source\repos\Arrays-TaTeTi\Arrays-TaTeTi\obj\Debug\net5.0\Arrays-TaTeTi.genruntimeconfig.cache

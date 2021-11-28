@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Arrays-TaTeTi/1.0.0": {
+        "runtime": {
+          "Arrays-TaTeTi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays-TaTeTi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
