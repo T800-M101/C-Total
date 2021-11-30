@@ -1,0 +1,15 @@
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\bin\Debug\net5.0\GruposAmigos(Arrays Irregulares).exe
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\bin\Debug\net5.0\GruposAmigos(Arrays Irregulares).deps.json
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\bin\Debug\net5.0\GruposAmigos(Arrays Irregulares).runtimeconfig.json
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\bin\Debug\net5.0\GruposAmigos(Arrays Irregulares).runtimeconfig.dev.json
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\bin\Debug\net5.0\GruposAmigos(Arrays Irregulares).dll
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\bin\Debug\net5.0\ref\GruposAmigos(Arrays Irregulares).dll
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\bin\Debug\net5.0\GruposAmigos(Arrays Irregulares).pdb
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\obj\Debug\net5.0\GruposAmigos(Arrays Irregulares).GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\obj\Debug\net5.0\GruposAmigos(Arrays Irregulares).AssemblyInfoInputs.cache
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\obj\Debug\net5.0\GruposAmigos(Arrays Irregulares).AssemblyInfo.cs
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\obj\Debug\net5.0\GruposAmigos(Arrays Irregulares).csproj.CoreCompileInputs.cache
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\obj\Debug\net5.0\GruposAmigos(Arrays Irregulares).dll
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\obj\Debug\net5.0\ref\GruposAmigos(Arrays Irregulares).dll
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\obj\Debug\net5.0\GruposAmigos(Arrays Irregulares).pdb
+D:\CURSO C#\GruposAmigos(Arrays Irregulares)\GruposAmigos(Arrays Irregulares)\obj\Debug\net5.0\GruposAmigos(Arrays Irregulares).genruntimeconfig.cache

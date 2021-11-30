@@ -1,0 +1,16 @@
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\bin\Debug\net5.0\ArraysIrregulares.exe
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\bin\Debug\net5.0\ArraysIrregulares.deps.json
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\bin\Debug\net5.0\ArraysIrregulares.runtimeconfig.json
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\bin\Debug\net5.0\ArraysIrregulares.runtimeconfig.dev.json
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\bin\Debug\net5.0\ArraysIrregulares.dll
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\bin\Debug\net5.0\ref\ArraysIrregulares.dll
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\bin\Debug\net5.0\ArraysIrregulares.pdb
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\obj\Debug\net5.0\ArraysIrregulares.csproj.AssemblyReference.cache
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\obj\Debug\net5.0\ArraysIrregulares.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\obj\Debug\net5.0\ArraysIrregulares.AssemblyInfoInputs.cache
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\obj\Debug\net5.0\ArraysIrregulares.AssemblyInfo.cs
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\obj\Debug\net5.0\ArraysIrregulares.csproj.CoreCompileInputs.cache
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\obj\Debug\net5.0\ArraysIrregulares.dll
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\obj\Debug\net5.0\ref\ArraysIrregulares.dll
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\obj\Debug\net5.0\ArraysIrregulares.pdb
+D:\CURSO C#\ArraysIrregulares\ArraysIrregulares\obj\Debug\net5.0\ArraysIrregulares.genruntimeconfig.cache

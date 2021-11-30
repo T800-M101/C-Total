@@ -1,0 +1,15 @@
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\obj\Debug\net5.0\ArraysComoParametros.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\obj\Debug\net5.0\ArraysComoParametros.AssemblyInfoInputs.cache
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\obj\Debug\net5.0\ArraysComoParametros.AssemblyInfo.cs
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\obj\Debug\net5.0\ArraysComoParametros.csproj.CoreCompileInputs.cache
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\bin\Debug\net5.0\ArraysComoParametros.exe
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\bin\Debug\net5.0\ArraysComoParametros.deps.json
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\bin\Debug\net5.0\ArraysComoParametros.runtimeconfig.json
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\bin\Debug\net5.0\ArraysComoParametros.runtimeconfig.dev.json
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\bin\Debug\net5.0\ArraysComoParametros.dll
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\bin\Debug\net5.0\ref\ArraysComoParametros.dll
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\bin\Debug\net5.0\ArraysComoParametros.pdb
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\obj\Debug\net5.0\ArraysComoParametros.dll
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\obj\Debug\net5.0\ref\ArraysComoParametros.dll
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\obj\Debug\net5.0\ArraysComoParametros.pdb
+D:\CURSO C#\ArraysComoParametros\ArraysComoParametros\obj\Debug\net5.0\ArraysComoParametros.genruntimeconfig.cache

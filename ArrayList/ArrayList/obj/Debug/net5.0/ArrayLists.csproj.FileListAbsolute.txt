@@ -1,0 +1,16 @@
+D:\CURSO C#\ArrayList\ArrayList\bin\Debug\net5.0\ArrayLists.exe
+D:\CURSO C#\ArrayList\ArrayList\bin\Debug\net5.0\ArrayLists.deps.json
+D:\CURSO C#\ArrayList\ArrayList\bin\Debug\net5.0\ArrayLists.runtimeconfig.json
+D:\CURSO C#\ArrayList\ArrayList\bin\Debug\net5.0\ArrayLists.runtimeconfig.dev.json
+D:\CURSO C#\ArrayList\ArrayList\bin\Debug\net5.0\ArrayLists.dll
+D:\CURSO C#\ArrayList\ArrayList\bin\Debug\net5.0\ref\ArrayLists.dll
+D:\CURSO C#\ArrayList\ArrayList\bin\Debug\net5.0\ArrayLists.pdb
+D:\CURSO C#\ArrayList\ArrayList\obj\Debug\net5.0\ArrayLists.csproj.AssemblyReference.cache
+D:\CURSO C#\ArrayList\ArrayList\obj\Debug\net5.0\ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\ArrayList\ArrayList\obj\Debug\net5.0\ArrayLists.AssemblyInfoInputs.cache
+D:\CURSO C#\ArrayList\ArrayList\obj\Debug\net5.0\ArrayLists.AssemblyInfo.cs
+D:\CURSO C#\ArrayList\ArrayList\obj\Debug\net5.0\ArrayLists.csproj.CoreCompileInputs.cache
+D:\CURSO C#\ArrayList\ArrayList\obj\Debug\net5.0\ArrayLists.dll
+D:\CURSO C#\ArrayList\ArrayList\obj\Debug\net5.0\ref\ArrayLists.dll
+D:\CURSO C#\ArrayList\ArrayList\obj\Debug\net5.0\ArrayLists.pdb
+D:\CURSO C#\ArrayList\ArrayList\obj\Debug\net5.0\ArrayLists.genruntimeconfig.cache
